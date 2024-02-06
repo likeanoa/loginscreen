@@ -3,5 +3,8 @@ div {
   height: 300px;
   background-color: white;
   border-radius: 5px;
-  
+}
+
+body {
+  background-color: #d1e6ff;
 }
